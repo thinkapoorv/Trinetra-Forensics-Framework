@@ -39,6 +39,67 @@ st.markdown("""
         background-color: #0b0d10 !important;
     }
 
+    /* Streamlit Deploy Button Highlight */
+    .stAppDeployButton,
+    [data-testid="stAppDeployButton"] {
+        overflow: visible !important;
+        display: inline-flex !important;
+        align-items: center !important;
+    }
+
+    .stAppDeployButton button,
+    [data-testid="stAppDeployButton"] button,
+    [data-testid="stToolbar"] [data-testid="stAppDeployButton"] button,
+    [data-testid="stHeader"] button[kind="header"]:has([data-testid="stAppDeployButton"]) {
+        background: linear-gradient(135deg, #ff1744 0%, #d50000 100%) !important;
+        background-color: #ff1744 !important;
+        color: #ffffff !important;
+        border: 1px solid #ff5252 !important;
+        border-radius: 8px !important;
+        font-weight: 700 !important;
+        letter-spacing: 0.5px !important;
+        padding: 6px 16px !important;
+        box-shadow: 0 0 15px rgba(255, 23, 68, 0.85), 0 0 30px rgba(255, 23, 68, 0.5), 0 0 45px rgba(255, 23, 68, 0.25) !important;
+        animation: deploy-glow-pulse 2s infinite ease-in-out !important;
+        transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+        cursor: pointer !important;
+    }
+
+    .stAppDeployButton button:hover,
+    [data-testid="stAppDeployButton"] button:hover {
+        background: linear-gradient(135deg, #ff5252 0%, #ff1744 100%) !important;
+        background-color: #ff5252 !important;
+        color: #ffffff !important;
+        border-color: #ff8a80 !important;
+        box-shadow: 0 0 25px rgba(255, 23, 68, 1), 0 0 50px rgba(255, 23, 68, 0.85), 0 0 70px rgba(255, 23, 68, 0.5) !important;
+        transform: translateY(-1px) scale(1.04) !important;
+    }
+
+    .stAppDeployButton button span,
+    .stAppDeployButton button p,
+    [data-testid="stAppDeployButton"] button span,
+    [data-testid="stAppDeployButton"] button p {
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6) !important;
+    }
+
+    .stAppDeployButton button svg,
+    [data-testid="stAppDeployButton"] button svg {
+        fill: #ffffff !important;
+        stroke: #ffffff !important;
+        filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.8)) !important;
+    }
+
+    @keyframes deploy-glow-pulse {
+        0%, 100% {
+            box-shadow: 0 0 12px rgba(255, 23, 68, 0.75), 0 0 25px rgba(255, 23, 68, 0.45);
+        }
+        50% {
+            box-shadow: 0 0 22px rgba(255, 23, 68, 1), 0 0 42px rgba(255, 23, 68, 0.75), 0 0 60px rgba(255, 23, 68, 0.4);
+        }
+    }
+
     [data-testid="stSidebar"] {
         background-color: #12151a !important;
         border-right: 1px solid #1e293b !important;
@@ -481,12 +542,12 @@ raw_bytes = None
 file_name = ""
 
 if use_sample:
-    sample_path = Path(__file__).parent / "sample.eml"
+    sample_path = Path(__file__).parent / "gmail.eml"
     if sample_path.exists():
         raw_bytes = sample_path.read_bytes()
-        file_name = "sample.eml"
+        file_name = "gmail.eml"
     else:
-        st.error("sample.eml file not found in directory.")
+        st.error("gmail.eml file not found in directory.")
 elif uploaded_file is not None:
     raw_bytes = uploaded_file.getvalue()
     file_name = uploaded_file.name
