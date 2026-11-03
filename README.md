@@ -355,3 +355,14 @@ Trinetra/
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+## 📚 Project Documentation
+
+- [Product Requirements Document](docs/PRD.md)
+- [Deployment Plan (6-month post-Trinetra)](docs/DEPLOYMENT_PLAN.md)
+- [Intellectual Property Notice](IP_NOTICE.md)
+- [Contributing Guide](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security Policy](SECURITY.md)
