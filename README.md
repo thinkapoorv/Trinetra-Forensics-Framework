@@ -333,11 +333,12 @@ Trinetra/
 
 | Role | Name | GitHub |
 |------|------|--------|
-| 👑 Team Lead | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
-| 🛡️ Member | Abhi | [@thinkapoorv](https://github.com/shreyagarje07-star) |
-| 🛡️ Member | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
-| 🛡️ Member | Abhi | [@thinkapoorv](https://github.com/Abhi) |
-| 🛡️ Member | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
+| Team Lead | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
+| Member | Abhi | [@thinkapoorv](https://github.com/sudarshaniyengar324-cloud) |
+| Member | Abhi | [@thinkapoorv](https://github.com/shreyagarje07-star) |
+| Member | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
+| Member | Abhi | [@thinkapoorv](https://github.com/Abhi) |
+| Member | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
 
 **Institute / College:** Trinetra Engineering  
 **Team ID:** TRINETRA-CORE
