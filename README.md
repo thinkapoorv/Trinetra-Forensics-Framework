@@ -19,7 +19,7 @@
 
 **Problem Statement:** TRINETRA · Blockchain & Cybersecurity  
 **Organization:** AICTE Cyber Security Cell  
-**Team:** Trinetra Team (6 members)  
+**Team:** Trinetra Team (5 members)  
 **Live Sepolia Contract:** [`0x87f8CD4c4628D77aCDfb76Ee6428Fa98dc2dEed8`](https://sepolia.etherscan.io/address/0x87f8CD4c4628D77aCDfb76Ee6428Fa98dc2dEed8)
 
 ---
@@ -262,12 +262,11 @@ Trinetra/
 
 | Role | Name | GitHub |
 |------|------|--------|
-| Team Lead | Abhi | [@thinkapoorv](https://github.com/sudarshaniyengar324-cloud) |
-| Tech Lead | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
-| Member | Abhi | [@thinkapoorv](https://github.com/shreyagarje07-star) |
-| Member | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
-| Member | Abhi | [@thinkapoorv](https://github.com/Abhi) |
-| Member | Abhi | [@thinkapoorv](https://github.com/thinkapoorv) |
+| Team Lead | Apoorv Gupta | [@thinkapoorv](https://github.com/thinkapoorv) |
+| Member | Reshal Miglani | [@Reshal-006](https://github.com/Reshal-006) |
+| Member | Aditya Gogoi | [@Ad0t](https://github.com/Ad0t) |
+| Member | Devadathan Jijoy | [@M-Deva28](https://github.com/M-Deva28) |
+| Member | Vaishnavi Omkaram | [@vaishnaviomkaram](https://github.com/vaishnaviomkaram) |
 
 **Institute / College:** Trinetra Engineering  
 **Team ID:** TRINETRA-CORE

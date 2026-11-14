@@ -58,7 +58,7 @@ def generate_pdf_report(
     ml_prob: float,
     merkle_root: str,
     case_id: str = "TRINETRA-AUTO",
-    analyst: str = "Abhi",
+    analyst: str = "Apoorv Gupta",
     relay_hops: list = None,
     filename: str = "forensic_report.pdf"
 ) -> bytes:
@@ -189,7 +189,7 @@ def generate_pdf_report(
         ],
         [
             Paragraph("<b>Analyst:</b>", body_style),
-            Paragraph("<b>Abhi</b>", body_style)
+            Paragraph("<b>Apoorv Gupta</b>", body_style)
         ],
         [
             Paragraph("<b>Report Generated:</b>", body_style),

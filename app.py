@@ -790,7 +790,7 @@ pdf_bytes = generate_pdf_report(
     ml_prob=ml_prob,
     merkle_root=merkle_root,
     case_id=f"TRINETRA-{datetime.datetime.now().strftime('%Y%m%d-%H%M%S')}",
-    analyst="Abhi",
+    analyst="Apoorv Gupta",
     relay_hops=hop_rows,
 )
 

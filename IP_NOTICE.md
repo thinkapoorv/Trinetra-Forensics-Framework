@@ -4,12 +4,11 @@
 
 Copyright (c) 2026 Trinetra Team — Trinetra Engineering
 
-- Abhi — [@thinkapoorv](https://github.com/thinkapoorv)
-- Abhi — [@thinkapoorv](https://github.com/sudarshaniyengar324-cloud)
-- Abhi — [@thinkapoorv](https://github.com/shreyagarje07-star)
-- Abhi — [@thinkapoorv](https://github.com/thinkapoorv)
-- Abhi — [@thinkapoorv](https://github.com/Abhi)
-- Abhi — [@thinkapoorv](https://github.com/thinkapoorv)
+- Apoorv Gupta (Team Lead) — [@thinkapoorv](https://github.com/thinkapoorv)
+- Reshal Miglani — [@Reshal-006](https://github.com/Reshal-006)
+- Aditya Gogoi — [@Ad0t](https://github.com/Ad0t)
+- Devadathan Jijoy — [@M-Deva28](https://github.com/M-Deva28)
+- Vaishnavi Omkaram — [@vaishnaviomkaram](https://github.com/vaishnaviomkaram)
 
 Released under the MIT License — see [LICENSE](LICENSE).
 

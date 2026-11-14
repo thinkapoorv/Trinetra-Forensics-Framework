@@ -2,7 +2,7 @@
 
 **Problem Statement:** TRINETRA — AI-Powered Email Threat Detection, GeoLocation and Forensic Intelligence Platform
 **Sponsoring Ministry:** AICTE Cyber Security Cell
-**Team:** Trinetra Team (6 members)
+**Team:** Trinetra Team (5 members)
 **Institution:** Trinetra Engineering
 **Document version:** 1.0 — October 2026
 
@@ -200,7 +200,7 @@ To move TRINETRA from hackathon prototype to deployable tool for CERT-In and sta
 
 ## 8. Team Commitment
 
-All six members of Trinetra Team commit to:
+All five members of Trinetra Team commit to:
 
 - Minimum 15 hours/week each during the 6-month deployment
 - Weekly progress report to assigned mentor
@@ -222,9 +222,9 @@ All six members of Trinetra Team commit to:
 
 ## 10. Contact
 
-**Team Lead:** Abhi — 171412961+iapoorv01@users.noreply.github.com
+**Team Lead:** Apoorv Gupta — 171412961+iapoorv01@users.noreply.github.com
 **Institution:** Trinetra Engineering
-**Repository:** https://github.com/thinkapoorv/Trinetra-Email.git
+**Repository:** https://github.com/thinkapoorv/Trinetra-Forensics-Framework.git
 
 ---
 

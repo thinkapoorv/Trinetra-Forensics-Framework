@@ -4,7 +4,7 @@ Product: TRINETRA (internally also called TRINETRA)
 Problem Statement: TRINETRA — AI-Powered Email Threat Detection, GeoLocation and Forensic Intelligence Platform
 Organization: AICTE Cyber Security Cell
 Theme: Blockchain & Cybersecurity
-Team: Trinetra Team (6 members)
+Team: Trinetra Team (5 members)
 Repo Owner: thinkapoorv
 Date: September 2026
 
